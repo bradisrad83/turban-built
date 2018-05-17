@@ -640,6 +640,7 @@ ol li a {
 #map {
 	height: 400px;
 	width: 50%;
+	margin: auto;
    }
 .bottom{
 	color: #000000;

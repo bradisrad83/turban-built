@@ -99,9 +99,9 @@
 		background-image: url(close@2x.png); 
 		background-size: 16px 16px;
 	}
-	#map{
+	/* #map{
 		display: none;
-	}
+	} */
 	#about{
 		width: 100%;
 	}
